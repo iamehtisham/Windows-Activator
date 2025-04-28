@@ -78,4 +78,4 @@ This script is provided under the MIT License. See the [LICENSE](LICENSE) file f
 
  Ehtisham Ali  
    GitHub: [iamehtisham](https://github.com/iamehtisham)  
-   Email: ehtisham.ali@example.com
+   
