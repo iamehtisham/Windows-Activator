@@ -68,12 +68,6 @@ This repository contains a batch script to activate various versions of Windows 
 
 
 
-## License
-
-This script is provided under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-
-
 ## Author
 
  Ehtisham Ali  
